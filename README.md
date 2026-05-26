@@ -10,7 +10,7 @@ Det här repot är vår **officiella fakta-källa**. Här publicerar vi öppet h
 
 ## 📚 Innehåll
 
-> 🚧 **Status:** Innehåll byggs ut iterativt under maj–juni 2026. Filer markerade med ⏳ är planerade.
+> 🚀 **Status:** Första versionen av dokumentationen är komplett (2026-05-26). Innehållet uppdateras löpande — se [`CHANGELOG.md`](CHANGELOG.md).
 
 | Dokument | Innehåll |
 |----------|----------|
@@ -20,10 +20,10 @@ Det här repot är vår **officiella fakta-källa**. Här publicerar vi öppet h
 | ✅ [`ASSESSMENT.md`](ASSESSMENT.md) | Bedömningskriterier och Skolverket |
 | ✅ [`DATA-POLICY.md`](DATA-POLICY.md) | GDPR, datalagring (EU), retention |
 | ✅ [`ACCESSIBILITY.md`](ACCESSIBILITY.md) | NPF-, dyslexi- och ADHD-anpassningar |
-| ⏳ [`RESEARCH.md`](RESEARCH.md) | Forskningsreferenser |
-| ⏳ [`FAQ.md`](FAQ.md) | Vanliga frågor |
-| ⏳ [`CHANGELOG.md`](CHANGELOG.md) | Publika produktuppdateringar |
-| ⏳ [`PRESS-KIT.md`](PRESS-KIT.md) | Logo, screenshots, presskontakt |
+| ✅ [`RESEARCH.md`](RESEARCH.md) | Forskningsreferenser |
+| ✅ [`FAQ.md`](FAQ.md) | Vanliga frågor |
+| ✅ [`CHANGELOG.md`](CHANGELOG.md) | Publika produktuppdateringar |
+| ✅ [`PRESS-KIT.md`](PRESS-KIT.md) | Logo, screenshots, presskontakt |
 
 ---
 
@@ -54,5 +54,5 @@ NP-Monstret-namnet och logotypen är varumärken tillhörande Lärinsikt AB och 
 ## 📬 Kontakt
 
 - Webb: [npmonstret.se](https://npmonstret.se)
-- E-post: hej@npmonstret.se *(byt till rätt mejl när det är klart)*
+- E-post: [hej@npmonstret.se](mailto:hej@npmonstret.se)
 - Issues: använd fliken [Issues](https://github.com/Larinsikt/np-monstret-public/issues) för att rapportera fel eller föreslå förbättringar i dokumentationen

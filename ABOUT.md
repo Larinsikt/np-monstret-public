@@ -62,6 +62,7 @@ Plattformen är förankrad i Skolverkets aktuella riktlinjer (Lgr22 och Gy25) oc
 ## 📬 Kontakt
 
 - **Webb:** [npmonstret.se](https://npmonstret.se)
+- **E-post:** [hej@npmonstret.se](mailto:hej@npmonstret.se)
 - **GitHub-organisation:** [github.com/Larinsikt](https://github.com/Larinsikt)
 - **Issues / dokumentationsförslag:** [openna en issue här](https://github.com/Larinsikt/np-monstret-public/issues)
 

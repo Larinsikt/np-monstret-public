@@ -151,8 +151,8 @@ NP-Monstret riktar sig delvis till elever under 16 år. Vi följer extra strikta
 
 För frågor om personuppgifter, dataskydd eller utövande av dina rättigheter:
 
-- **E-post:** *(uppdateras när formell DPO/datakontakt är klar)*
-- **Post:** Lärinsikt AB, *(adress läggs till)*
+- **E-post:** [hej@npmonstret.se](mailto:hej@npmonstret.se)
+- **Post:** Lärinsikt AB *(adress läggs till)*
 - **Tillsynsmyndighet:** [Integritetsskyddsmyndigheten (IMY)](https://www.imy.se)
 
 ---
