@@ -16,8 +16,8 @@ Det här repot är vår **officiella fakta-källa**. Här publicerar vi öppet h
 |----------|----------|
 | ✅ [`ABOUT.md`](ABOUT.md) | Lärinsikt AB, teamet och kontakt |
 | ✅ [`METHODOLOGY.md`](METHODOLOGY.md) | Pedagogisk metod och vägval |
-| ⏳ [`CURRICULUM-ALIGNMENT.md`](CURRICULUM-ALIGNMENT.md) | Mappning mot Lgr22 och Gy25 |
-| ⏳ [`ASSESSMENT.md`](ASSESSMENT.md) | Bedömningskriterier och Skolverket |
+| ✅ [`CURRICULUM-ALIGNMENT.md`](CURRICULUM-ALIGNMENT.md) | Mappning mot Lgr22 och Gy25 |
+| ✅ [`ASSESSMENT.md`](ASSESSMENT.md) | Bedömningskriterier och Skolverket |
 | ⏳ [`DATA-POLICY.md`](DATA-POLICY.md) | GDPR, datalagring (EU), retention |
 | ⏳ [`ACCESSIBILITY.md`](ACCESSIBILITY.md) | NPF-, dyslexi- och ADHD-anpassningar |
 | ⏳ [`RESEARCH.md`](RESEARCH.md) | Forskningsreferenser |
