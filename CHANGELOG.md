@@ -19,6 +19,29 @@ Datumformat: YYYY-MM-DD.
 
 ---
 
+## [1.1.0] — 2026-05-27
+
+### Tillagt
+- `STATS.md` — nyckeltal om plattformen (kursbibliotek, team, teknik)
+- `CASE-STUDIES.md` — anonymiserade lärarobservationer om provstress, tidspressade lärare, NPF-anpassningar
+- `SECURITY.md` — säkerhetspolicy och sårbarhetsrapportering
+- `README.en.md` — engelsk översättning för internationell synlighet
+- Skärmdumpar i `assets/` (kursöversikt, dashboard, nivåval, NP-simulator, mina misstag)
+- PRESS-KIT.md utökad med skärmdumpssektion
+
+### Ändrat
+- RESEARCH.md — ersättning av kontrollerade forskningskällor: Roediger & Karpicke (2006), Hattie & Timperley (2007), Cepeda et al. (2006), Karpicke & Blunt (2011). Latimier-titel korrigerad.
+- METHODOLOGY.md, ABOUT.md, ACCESSIBILITY.md, ASSESSMENT.md, CURRICULUM-ALIGNMENT.md, DATA-POLICY.md, FAQ.md, PRESS-KIT.md — språklig genomgång för läsbarhet
+- README.md — strukturen omarbetad och förenklad
+
+### Relaterat (i andra repos)
+- `np-bedomning-datasets`: 4 nya gymnasiekurser publicerade (Ma2, Ma3, Sv3, Eng6) — totalt 13 dataset
+- `np-bedomning-datasets`: GitHub Actions-workflow för JSON-validering
+- `awesome-nationella-prov`: CONTRIBUTING.md tillagd
+- Alla tre repos: engelska README:s + GitHub topics satta
+
+---
+
 ## [1.0.0] — 2026-05-26
 
 ### Tillagt
@@ -30,7 +53,7 @@ Datumformat: YYYY-MM-DD.
 - `ASSESSMENT.md` — bedömningsmodell baserad på Skolverkets matriser
 - `DATA-POLICY.md` — GDPR, datalagring i EU (Frankfurt), retention, användarrättigheter
 - `ACCESSIBILITY.md` — tillgänglighet och NPF-anpassningar, ärlig genomgång av nuläge
-- `RESEARCH.md` — forskningsförankring (Latimier 2021, Bego 2024, Jayaram 2026)
+- `RESEARCH.md` — forskningsförankring
 - `FAQ.md` — vanliga frågor från elever, föräldrar, lärare och skolinköpare
 - Issue templates för förbättringsförslag och felrapporter
 - Licens: CC BY 4.0 för dokumentation

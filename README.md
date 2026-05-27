@@ -15,11 +15,16 @@ Det här repot är vår fakta-källa. Här beskriver vi öppet hur plattformen f
 | [DATA-POLICY.md](DATA-POLICY.md) | GDPR, datalagring inom EU, retention |
 | [ACCESSIBILITY.md](ACCESSIBILITY.md) | Anpassningar för NPF, dyslexi och ADHD |
 | [RESEARCH.md](RESEARCH.md) | Forskningsreferenser |
+| [CASE-STUDIES.md](CASE-STUDIES.md) | Anonymiserade observationer från klassrummet |
+| [STATS.md](STATS.md) | Nyckeltal om plattformen |
+| [SECURITY.md](SECURITY.md) | Säkerhetspolicy och sårbarhetsrapportering |
 | [FAQ.md](FAQ.md) | Vanliga frågor |
 | [CHANGELOG.md](CHANGELOG.md) | Publika produktuppdateringar |
 | [PRESS-KIT.md](PRESS-KIT.md) | Logo, skärmdumpar, presskontakt |
 
 Första versionen publicerades 2026-05-26. Dokumentationen uppdateras löpande, se [CHANGELOG.md](CHANGELOG.md).
+
+Engelsk version: [README.en.md](README.en.md).
 
 ## Bakom NP-Monstret
 
