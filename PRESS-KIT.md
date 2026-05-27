@@ -65,7 +65,40 @@ NP-Monstret är medvetet lågstimulerat designad: få färger, inga tidskrav på
 
 ## Skärmdumpar
 
-> Skärmdumpar publiceras här när plattformen är stabil för publik visning. Aktuella exempel kan tillhandahållas på begäran.
+Från npmonstret.se — fritt användbara i redaktionella sammanhang med källhänvisning.
+
+### Kursöversikt
+
+![Kursöversikt med ämnen och årskurser](assets/kursoversikt.png)
+
+Elever väljer kurs efter ämne och årskurs. Mappning mot Lgr22 och Gy25 syns direkt på varje kort.
+
+### Dashboard
+
+![Dashboard med välkomst och progression](assets/dashboard.png)
+
+Välkomstvyn visar elevens progression, frågestatistik och nästa steg.
+
+### Nivåval matematik
+
+![Nivåval matematik med beredskapsindikator](assets/matematik-niva-1.png)
+
+Varje delprov visar elevens beredskap innan träningen påbörjas — svårare kapitel öppnas när grunderna sitter.
+
+### NP-simulator — kursval
+
+![NP-simulator kursval](assets/np-simulator-1.png)
+![NP-simulator kursval, fortsatt](assets/np-simulator-2.png)
+
+Fullskaliga simuleringar av nationella prov med korrekta tidsramar, hjälpmedel och provstruktur enligt Skolverket.
+
+### Mina misstag
+
+![Mina misstag — repetition av felsvarade frågor](assets/mina-misstag.png)
+
+Felsvarade frågor samlas automatiskt i en repetitionskö — kombinerat med spaced repetition så att eleven möter samma område igen vid rätt tidpunkt.
+
+Fler skärmdumpar i högre upplösning kan tillhandahållas på begäran.
 
 ---
 
@@ -121,4 +154,4 @@ Intervjuförfrågningar: [hej@npmonstret.se](mailto:hej@npmonstret.se)
 
 ---
 
-*Senast uppdaterad: 2026-05-26*
+*Senast uppdaterad: 2026-05-27*
