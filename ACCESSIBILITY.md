@@ -6,7 +6,7 @@ Hur NP-Monstret är byggt för att fungera för **alla elever** — inklusive de
 
 ---
 
-## 🎯 Grundprincip: lågstimulerad design från start
+## Grundprincip: lågstimulerad design från start
 
 Tillgänglighetsarbetet i NP-Monstret leds av **Annika Johansson, legitimerad specialpedagog med över 20 års erfarenhet** av elever med läs- och skrivsvårigheter, ADHD och NPF.
 
@@ -14,13 +14,13 @@ I stället för att försöka lägga på tekniska anpassningar i efterhand har v
 
 ---
 
-## 🤝 Samarbete med Dyslexiförbundet Malmö
+## Samarbete med Dyslexiförbundet Malmö
 
 NP-Monstret har ett aktivt samarbete med **Dyslexiförbundet Malmö** kring anpassningar och användartester. Förbundet ger feedback på plattformens funktioner, och deras medlemmar får tillgång till plattformen via en separat överenskommelse.
 
 ---
 
-## ✅ Det här finns i plattformen idag
+## Det här finns i plattformen idag
 
 ### Lågstimulerad UI
 
@@ -53,20 +53,20 @@ NP-Monstret har ett aktivt samarbete med **Dyslexiförbundet Malmö** kring anpa
 
 Vi vill vara helt ärliga: flera tekniska anpassningar som ofta efterfrågas finns **inte** i plattformen ännu. De är på vår roadmap men inte tillgängliga idag:
 
-- ❌ **Text-to-speech** (uppläsning av text) — finns inte ännu
-- ❌ **Justerbara typsnitt** (storlek, dyslexianpassat) — använd webbläsarens egen zoom tills vidare
-- ❌ **Mörkt läge / färgteman** — finns inte ännu
-- ❌ **Justerbart radavstånd** — finns inte ännu
-- ❌ **Talsvar** (eleven svarar muntligt) — finns inte ännu
-- ❌ **Skärmläsarstöd för matematiska uttryck** — fungerar grundläggande men inte optimalt
-- ❌ **Teckenspråk** — ingen översättning till svenskt teckenspråk
-- ❌ **Tillgänglighetsdeklaration enligt DOS-lagen** — kommer publiceras när tjänsten är klar för det
+- **Text-to-speech** (uppläsning av text) — finns inte ännu
+- **Justerbara typsnitt** (storlek, dyslexianpassat) — använd webbläsarens egen zoom tills vidare
+- **Mörkt läge / färgteman** — finns inte ännu
+- **Justerbart radavstånd** — finns inte ännu
+- **Talsvar** (eleven svarar muntligt) — finns inte ännu
+- **Skärmläsarstöd för matematiska uttryck** — fungerar grundläggande men inte optimalt
+- **Teckenspråk** — ingen översättning till svenskt teckenspråk
+- **Tillgänglighetsdeklaration enligt DOS-lagen** — kommer publiceras när tjänsten är klar för det
 
 Om någon av dessa funktioner är kritisk för din elev eller skola, hör av dig — det hjälper oss prioritera.
 
 ---
 
-## 🎒 Vid nationella prov — Skolverkets riktlinjer
+## Vid nationella prov — Skolverkets riktlinjer
 
 NP-Monstret kan inte ge anpassningar som inte finns implementerade i plattformen. För elever som är beroende av t.ex. uppläsning eller förlängd tid bör skolan komplettera plattformen med externa hjälpmedel — exempelvis operativsystemets inbyggda uppläsningsfunktion eller specialpedagogiska verktyg som skolan redan använder.
 
@@ -74,7 +74,7 @@ Officiell information om anpassningar vid nationella prov: [Skolverket — Anpas
 
 ---
 
-## 🌐 Webbstandarder
+## Webbstandarder
 
 Plattformen byggs med tillgänglighet i åtanke. Vi siktar på **WCAG 2.1 nivå AA** men har ännu inte genomfört en formell granskning eller publicerat en tillgänglighetsdeklaration enligt DOS-lagen. Det är planerat för framtiden.
 
@@ -88,7 +88,7 @@ Det vi gör idag:
 
 ---
 
-## 📱 Enheter och plattformar
+## Enheter och plattformar
 
 NP-Monstret är en webbplattform som fungerar på:
 
@@ -100,7 +100,7 @@ NP-Monstret är en webbplattform som fungerar på:
 
 ---
 
-## 🧪 Hur vi förbättrar tillgängligheten
+## Hur vi förbättrar tillgängligheten
 
 Vår process idag:
 
@@ -112,7 +112,7 @@ Förslag och felrapporter välkomnas via [Issues här på GitHub](https://github
 
 ---
 
-## 📬 Kontakt i tillgänglighetsfrågor
+## Kontakt i tillgänglighetsfrågor
 
 - **GitHub Issues:** [öppna en issue](https://github.com/Larinsikt/np-monstret-public/issues)
 - **Mejl:** [hej@npmonstret.se](mailto:hej@npmonstret.se)
@@ -120,7 +120,7 @@ Förslag och felrapporter välkomnas via [Issues här på GitHub](https://github
 
 ---
 
-## 📚 Vidare läsning
+## Vidare läsning
 
 - [`METHODOLOGY.md`](METHODOLOGY.md) — pedagogisk metod
 - [`ASSESSMENT.md`](ASSESSMENT.md) — bedömning vid anpassningar

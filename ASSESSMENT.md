@@ -4,7 +4,7 @@ Hur NP-Monstret bedömer elevernas prestationer — och varför vi gör det på 
 
 ---
 
-## 🎯 Grundprincip: Skolverkets bedömningsmatriser, inget annat
+## Grundprincip: Skolverkets bedömningsmatriser, inget annat
 
 NP-Monstret tolkar inte bedömningskriterierna fritt. Vi använder **Skolverkets officiella bedömningsmatriser** för nationella prov som grund för all bedömning i plattformen.
 
@@ -14,7 +14,7 @@ NP-Monstret tolkar inte bedömningskriterierna fritt. Vi använder **Skolverkets
 
 ---
 
-## 📐 Två typer av bedömning
+## Två typer av bedömning
 
 NP-Monstret använder två olika bedömningsmodeller, beroende på vad som tränas:
 
@@ -22,23 +22,23 @@ NP-Monstret använder två olika bedömningsmodeller, beroende på vad som trän
 
 För matematikuppgifter, flervalsfrågor och språkfrågor med entydiga svar görs bedömningen direkt i plattformen.
 
-- ✅ Omedelbar feedback
-- ✅ Förklaring av varför svaret är rätt eller fel
-- ✅ Koppling till den läroplansrad som testas
-- ✅ Förslag på fortsatt träning
+- Omedelbar feedback
+- Förklaring av varför svaret är rätt eller fel
+- Koppling till den läroplansrad som testas
+- Förslag på fortsatt träning
 
 ### 2. Lärarstödd bedömning (kvalitativa uppgifter)
 
 För skrivuppgifter, muntliga övningar och andra kvalitativa moment där bedömning kräver pedagogisk expertis, kombineras automatiska kontroller med lärarbedömning.
 
-- ✅ Bedömning enligt Skolverkets matriser för aktuell ämne/årskurs
-- ✅ Skriftlig återkoppling
-- ✅ Konkreta förbättringsförslag
-- ✅ Granskat av legitimerade lärare
+- Bedömning enligt Skolverkets matriser för aktuell ämne/årskurs
+- Skriftlig återkoppling
+- Konkreta förbättringsförslag
+- Granskat av legitimerade lärare
 
 ---
 
-## 📊 Betygsskala
+## Betygsskala
 
 NP-Monstret följer den nationella betygsskalan så som den är formulerad i läroplanerna:
 
@@ -54,7 +54,7 @@ Mellanbetygen (D, B) tilldelas när elevens kunskaper huvudsakligen motsvarar ni
 
 ---
 
-## 🔍 Vad bedömningen tittar på (per ämne)
+## Vad bedömningen tittar på (per ämne)
 
 ### Matematik
 
@@ -90,7 +90,7 @@ För engelskuppgifter bedöms (enligt Skolverkets matriser och CEFR):
 
 ---
 
-## 🧩 Bedömning vid anpassningar (NPF, dyslexi, ADHD)
+## Bedömning vid anpassningar (NPF, dyslexi, ADHD)
 
 För elever med dokumenterade behov följs Skolverkets riktlinjer för anpassningar vid nationella prov:
 
@@ -105,7 +105,7 @@ Annika Johansson, legitimerad specialpedagog med över 20 års erfarenhet, ansva
 
 ---
 
-## 📝 Återkoppling till eleven
+## Återkoppling till eleven
 
 Återkopplingen i plattformen är formulerad enligt tre principer:
 
@@ -115,7 +115,7 @@ Annika Johansson, legitimerad specialpedagog med över 20 års erfarenhet, ansva
 
 ---
 
-## 🔄 Hur vi håller bedömningen aktuell
+## Hur vi håller bedömningen aktuell
 
 När Skolverket uppdaterar sina bedömningsmatriser:
 
@@ -126,7 +126,7 @@ När Skolverket uppdaterar sina bedömningsmatriser:
 
 ---
 
-## 📚 Vidare läsning
+## Vidare läsning
 
 - [`METHODOLOGY.md`](METHODOLOGY.md) — vår övergripande pedagogiska metod
 - [`CURRICULUM-ALIGNMENT.md`](CURRICULUM-ALIGNMENT.md) — mappning mot Lgr22 och Gy25

@@ -4,7 +4,7 @@ NP-Monstret är en svensk plattform för förberedelse inför nationella prov, b
 
 ---
 
-## 👥 Teamet
+## Teamet
 
 ### Alexander Johansson — grundare och produktansvarig
 
@@ -27,7 +27,7 @@ Annika ansvarar för plattformens tillgänglighetsarbete och de pedagogiska anpa
 
 ---
 
-## 🏢 Lärinsikt AB
+## Lärinsikt AB
 
 **Lärinsikt AB** är ett svenskt aktiebolag som äger och driver NP-Monstret. Bolagets fokus är digitala verktyg för svensk skola — byggda av lärare, för lärare och elever.
 
@@ -40,7 +40,7 @@ Annika ansvarar för plattformens tillgänglighetsarbete och de pedagogiska anpa
 
 ---
 
-## 🎯 Vad vi gör
+## Vad vi gör
 
 NP-Monstret hjälper elever förbereda sig inför nationella prov i:
 
@@ -52,14 +52,14 @@ Plattformen är förankrad i Skolverkets aktuella riktlinjer (Lgr22 och Gy25) oc
 
 ---
 
-## 🤝 Samarbeten
+## Samarbeten
 
 - **Dyslexiförbundet Malmö** — partner för anpassningar för elever med läs- och skrivsvårigheter
 - **Skolon** — distributionspartner (integration under utveckling 2026)
 
 ---
 
-## 📬 Kontakt
+## Kontakt
 
 - **Webb:** [npmonstret.se](https://npmonstret.se)
 - **E-post:** [hej@npmonstret.se](mailto:hej@npmonstret.se)

@@ -4,7 +4,7 @@ Hur NP-Monstret hanterar elev- och användardata. Den här filen beskriver princ
 
 ---
 
-## 🇪🇺 Var data lagras
+## Var data lagras
 
 All användardata för NP-Monstret lagras i **Europeiska Unionen**.
 
@@ -19,7 +19,7 @@ All användardata för NP-Monstret lagras i **Europeiska Unionen**.
 
 ---
 
-## 📜 Juridisk grund
+## Juridisk grund
 
 NP-Monstret hanterar personuppgifter enligt **Dataskyddsförordningen (GDPR)** och svensk dataskyddslag.
 
@@ -33,7 +33,7 @@ När en privatperson köper NP-Monstret direkt är **Lärinsikt AB personuppgift
 
 ---
 
-## 🔐 Vad vi samlar in
+## Vad vi samlar in
 
 Vi tillämpar **dataminimering** — vi sparar bara det som faktiskt behövs för att tjänsten ska fungera.
 
@@ -53,11 +53,11 @@ Vi tillämpar **dataminimering** — vi sparar bara det som faktiskt behövs fö
 
 ### Aldrig
 
-- ❌ Personnummer
-- ❌ Politiska åsikter, religion, hälsa eller annan känslig data (GDPR Art. 9)
-- ❌ Innehåll i privata meddelanden eller anteckningar utöver det som är relevant för uppgifter
-- ❌ Platsdata (GPS)
-- ❌ Information från andra appar eller tjänster
+- Personnummer
+- Politiska åsikter, religion, hälsa eller annan känslig data (GDPR Art. 9)
+- Innehåll i privata meddelanden eller anteckningar utöver det som är relevant för uppgifter
+- Platsdata (GPS)
+- Information från andra appar eller tjänster
 
 ---
 
@@ -75,7 +75,7 @@ Vi tillämpar **dataminimering** — vi sparar bara det som faktiskt behövs fö
 
 ---
 
-## 🛡️ Skydd av data
+## ️ Skydd av data
 
 På hög nivå:
 
@@ -89,7 +89,7 @@ För skolinköpare som behöver mer detaljer kring säkerhetsarkitektur — kont
 
 ---
 
-## 👤 Dina rättigheter (GDPR)
+## Dina rättigheter (GDPR)
 
 Användare i NP-Monstret har följande rättigheter:
 
@@ -107,7 +107,7 @@ Användare i NP-Monstret har följande rättigheter:
 
 ---
 
-## 🤖 Tredjepartstjänster
+## Tredjepartstjänster
 
 NP-Monstret använder ett begränsat antal noga utvalda tredjepartstjänster. Listan är medvetet kort.
 
@@ -123,20 +123,20 @@ Inga tredjepartstjänster används för annonsering eller spårning av minderår
 
 ---
 
-## 🍪 Cookies och spårning
+## Cookies och spårning
 
 NP-Monstret använder enbart **funktionella cookies** som krävs för att tjänsten ska fungera (inloggning, sessioner, preferenser).
 
-- ❌ Inga marknadsföringscookies
-- ❌ Inga tredjepartscookies för annonser
-- ❌ Ingen försäljning av data till annonsörer
-- ✅ Anonymiserad analys för att förbättra plattformen (frivillig)
+- Inga marknadsföringscookies
+- Inga tredjepartscookies för annonser
+- Ingen försäljning av data till annonsörer
+- Anonymiserad analys för att förbättra plattformen (frivillig)
 
 Se [npmonstret.se/integritetspolicy](https://npmonstret.se/integritetspolicy) för fullständig cookie-information.
 
 ---
 
-## 👶 Barn och minderåriga
+## Barn och minderåriga
 
 NP-Monstret riktar sig delvis till elever under 16 år. Vi följer extra strikta principer för minderåriga:
 
@@ -147,7 +147,7 @@ NP-Monstret riktar sig delvis till elever under 16 år. Vi följer extra strikta
 
 ---
 
-## 📬 Kontakt i datafrågor
+## Kontakt i datafrågor
 
 För frågor om personuppgifter, dataskydd eller utövande av dina rättigheter:
 
@@ -157,7 +157,7 @@ För frågor om personuppgifter, dataskydd eller utövande av dina rättigheter:
 
 ---
 
-## 🔄 Ändringar i policyn
+## Ändringar i policyn
 
 När vi uppdaterar denna policy:
 

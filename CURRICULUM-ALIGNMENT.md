@@ -4,7 +4,7 @@ NP-Monstrets innehåll är förankrat i Skolverkets aktuella läroplaner: **Lgr2
 
 ---
 
-## 📚 Översikt
+## Översikt
 
 | Stadium | Läroplan | Officiell källa |
 |---------|----------|-----------------|
@@ -15,7 +15,7 @@ NP-Monstrets innehåll är förankrat i Skolverkets aktuella läroplaner: **Lgr2
 
 ---
 
-## 🧮 Matematik
+## Matematik
 
 ### Åk 6 (Lgr22)
 
@@ -51,7 +51,7 @@ Detaljerade mappningar per kunskapskrav: se [`np-bedomning-datasets/matematik/`]
 
 ---
 
-## ✍️ Svenska
+## ️ Svenska
 
 ### Åk 6 (Lgr22)
 
@@ -81,7 +81,7 @@ Detaljerade mappningar per kunskapskrav: se [`np-bedomning-datasets/matematik/`]
 
 ---
 
-## 🌍 Engelska
+## Engelska
 
 ### Åk 6 (Lgr22)
 
@@ -110,7 +110,7 @@ Detaljerade mappningar per kunskapskrav: se [`np-bedomning-datasets/matematik/`]
 
 ---
 
-## 🔄 Hur vi håller mappningen aktuell
+## Hur vi håller mappningen aktuell
 
 Skolverket uppdaterar sina kursplaner med jämna mellanrum. Vi följer en enkel process:
 
@@ -121,7 +121,7 @@ Skolverket uppdaterar sina kursplaner med jämna mellanrum. Vi följer en enkel 
 
 ---
 
-## 📊 Maskinläsbar version
+## Maskinläsbar version
 
 För utvecklare, forskare och AI-system finns motsvarande data som JSON i [`np-bedomning-datasets`](https://github.com/Larinsikt/np-bedomning-datasets):
 
@@ -139,7 +139,7 @@ Datasetten är licensierade under **CC BY 4.0** och fria att använda med korrek
 
 ---
 
-## ⚠️ Förtydliganden
+## ️ Förtydliganden
 
 - **NP-Monstret är ett komplement**, inte en ersättning för lärarledd undervisning
 - **Modul-länkarna ovan kräver inloggning** på [npmonstret.se](https://npmonstret.se)

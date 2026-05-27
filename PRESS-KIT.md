@@ -6,7 +6,7 @@ Material för journalister, edtech-redaktörer, podcasters och andra som vill sk
 
 ---
 
-## 📖 Kort om NP-Monstret
+## Kort om NP-Monstret
 
 **En mening:**
 NP-Monstret är en svensk plattform för förberedelse inför nationella prov, byggd av legitimerade lärare och en specialpedagog.
@@ -23,7 +23,7 @@ NP-Monstret är medvetet lågstimulerat designad: få färger, inga tidskrav på
 
 ---
 
-## 👥 Personer
+## Personer
 
 ### Alexander Johansson — grundare och produktansvarig
 
@@ -42,7 +42,7 @@ NP-Monstret är medvetet lågstimulerat designad: få färger, inga tidskrav på
 
 ---
 
-## 🏢 Lärinsikt AB
+## Lärinsikt AB
 
 - **Bolagsform:** Aktiebolag
 - **Säte:** Sverige
@@ -52,7 +52,7 @@ NP-Monstret är medvetet lågstimulerat designad: få färger, inga tidskrav på
 
 ---
 
-## 🖼️ Logotyp och visuell identitet
+## ️ Logotyp och visuell identitet
 
 > Logotyper och bilder läggs till här när de är klara för distribution. Behöver du material innan dess — kontakta [hej@npmonstret.se](mailto:hej@npmonstret.se).
 
@@ -63,13 +63,13 @@ NP-Monstret är medvetet lågstimulerat designad: få färger, inga tidskrav på
 
 ---
 
-## 📸 Skärmdumpar
+## Skärmdumpar
 
 > Skärmdumpar publiceras här när plattformen är stabil för publik visning. Aktuella exempel kan tillhandahållas på begäran.
 
 ---
 
-## 📰 Vinklar som passar för redaktionellt material
+## Vinklar som passar för redaktionellt material
 
 Några ämnen där NP-Monstret kan erbjuda perspektiv:
 
@@ -82,7 +82,7 @@ Några ämnen där NP-Monstret kan erbjuda perspektiv:
 
 ---
 
-## ❓ Vad NP-Monstret **inte** är
+## Vad NP-Monstret **inte** är
 
 För att hjälpa redaktörer formulera korrekt:
 
@@ -93,7 +93,7 @@ För att hjälpa redaktörer formulera korrekt:
 
 ---
 
-## 🎤 Tillgänglighet för intervjuer
+## Tillgänglighet för intervjuer
 
 Alexander är tillgänglig för intervjuer om:
 - Pedagogiken bakom plattformen
@@ -111,7 +111,7 @@ Intervjuförfrågningar: [hej@npmonstret.se](mailto:hej@npmonstret.se)
 
 ---
 
-## 🔗 Användbara länkar
+## Användbara länkar
 
 - **Hemsida:** [npmonstret.se](https://npmonstret.se)
 - **GitHub:** [github.com/Larinsikt](https://github.com/Larinsikt)

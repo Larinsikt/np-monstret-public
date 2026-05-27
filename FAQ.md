@@ -6,7 +6,7 @@ Vanliga frågor om NP-Monstret från elever, föräldrar, lärare och skolinköp
 
 ---
 
-## 🎯 Om plattformen
+## Om plattformen
 
 ### Vad är NP-Monstret?
 
@@ -30,7 +30,7 @@ Nej. NP-Monstret är ett komplement till lärarledd undervisning, inte en ersät
 
 ---
 
-## 👨‍🎓 För elever
+## ‍🎓 För elever
 
 ### Hur fungerar plattformen för mig som elev?
 
@@ -50,7 +50,7 @@ Nej. Vi visar din egen utveckling, inte rankningar mot andra. Vi tror inte på a
 
 ---
 
-## 👨‍👩‍👧 För föräldrar
+## ‍👩‍👧 För föräldrar
 
 ### Är NP-Monstret tryggt för mitt barn?
 
@@ -70,7 +70,7 @@ Aktuell prissättning finns på [npmonstret.se](https://npmonstret.se). För sko
 
 ---
 
-## 👩‍🏫 För lärare
+## ‍🏫 För lärare
 
 ### Kan jag använda NP-Monstret i klassrummet?
 
@@ -90,7 +90,7 @@ Vi följer Skolverkets nyheter aktivt. När kursplaner eller bedömningskriterie
 
 ---
 
-## 🏫 För skolor och kommuner
+## För skolor och kommuner
 
 ### Kan vår skola eller kommun upphandla NP-Monstret?
 
@@ -114,7 +114,7 @@ All skoldata raderas inom 30 dagar efter avtalets upphörande. Det finns inga "l
 
 ---
 
-## 🛠️ Tekniskt
+## ️ Tekniskt
 
 ### Vilka enheter fungerar plattformen på?
 
@@ -130,7 +130,7 @@ Nej. NP-Monstret kräver internetuppkoppling.
 
 ---
 
-## 📬 Kontakt
+## Kontakt
 
 - **Allmänna frågor:** [hej@npmonstret.se](mailto:hej@npmonstret.se)
 - **GitHub Issues:** [öppna en issue](https://github.com/Larinsikt/np-monstret-public/issues)
