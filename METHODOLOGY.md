@@ -26,39 +26,18 @@ Detaljerad mappning per ämne och årskurs finns i [CURRICULUM-ALIGNMENT.md](CUR
 
 Bedömningskriterierna kommer direkt från Skolverkets bedömningsmatriser för nationella prov. Vi tolkar dem inte fritt — vi använder dem som de är. Mer i [ASSESSMENT.md](ASSESSMENT.md).
 
-## Tre forskningsbaserade principer
+## Tre jobb, inte tre sloganer
 
-### 1. Spaced repetition
+Motorn är Felkistan (öppna kunskapskrav), öppna pass och Vecko. Retrieval och utspridd träning *informerar* designen. De *är inte* ett schema på alla frågor.
 
-Eleven möter samma kunskapsmål flera gånger över tid, inte allt på en gång. Forskning visar att utspridd träning ger betydligt bättre långtidsminne än "kvällen-före-pluggande".
-
-Källa: Latimier, Peyre & Ramus (2021), *A meta-analytic review of the benefit of spacing out retrieval practice episodes on retention*, Educational Psychology Review.
-
-### 2. Retrieval practice
-
-Eleven testar sin kunskap aktivt — inte genom att passivt läsa. Att försöka komma ihåg är mer effektivt för långtidsminnet än att repetera samma text.
-
-Källa: Roediger & Karpicke (2006), *Test-enhanced learning: Taking memory tests improves long-term retention*, Psychological Science.
-
-### 3. Omedelbar feedback
-
-Eleven får feedback direkt efter ett svar, inte dagar senare. Direkt återkoppling minskar risken att fel "fastnar" och låter rätt sätt repeteras.
-
-Källa: Hattie & Timperley (2007), *The power of feedback*, Review of Educational Research.
-
-Mer om forskningsförankringen i [RESEARCH.md](RESEARCH.md).
+Se [RESEARCH.md](RESEARCH.md) — den filen slår den här sektionen om de skiljer sig.
 
 ## Anpassningar för NPF, dyslexi och ADHD
 
 Plattformen ska fungera för alla elever, inte bara dem som lätt navigerar text-tunga gränssnitt.
 
-Annika Johansson, legitimerad specialpedagog med över 20 års erfarenhet, ansvarar för anpassningarna. Plattformen erbjuder:
-
-- Uppläst text (text-to-speech)
-- Justerbara typsnitt och radavstånd
-- Färgsättning anpassad för dyslektiker
-- Möjlighet att dela upp uppgifter i mindre steg
-- Lugn, lågstimulerad design utan onödiga distraktioner
+Annika Johansson, legitimerad specialpedagog med över 20 års erfarenhet, ansvarar för anpassningarna. Det som *finns* idag: lugn, lågstimulerad design. Valbart tydligare typsnitt på sajten.  
+Det som *inte* är klart: uppläsning, justerbar textstorlek utöver zoom, mörkt läge. Se [ACCESSIBILITY.md](ACCESSIBILITY.md) och npmonstret.se/tillganglighet.
 
 Detaljerad beskrivning i [ACCESSIBILITY.md](ACCESSIBILITY.md).
 

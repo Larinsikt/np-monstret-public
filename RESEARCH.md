@@ -1,98 +1,65 @@
 # Forskningsförankring
 
-NP-Monstret bygger på etablerad pedagogisk och kognitiv forskning. Den här filen redovisar vilka källor vi stöder oss på och hur de översätts till hur plattformen är byggd.
+Den här filen är **nedströms**. Intern sanning för agenter och produktbeslut: `docs/ops/RESEARCH-BANK.md` i produktrepot.
 
-## Tre principer som styr plattformen
+Vi säger inte att tre principer *styr plattformen*. Motorn är tre **jobb**:
 
-1. Spaced repetition — utspridd repetition över tid
-2. Retrieval practice — aktivt återkallande av kunskap
-3. Omedelbar feedback — återkoppling direkt vid svar, inte dagar senare
+| Jobb | Vad det är | Vad det inte är |
+|------|------------|-----------------|
+| Felkistan | Nya uppgifter på *öppna kunskapskrav* (inloggad) | Samma fel-fråga om och om; gäst-Vecko |
+| Öppna pass | Blandad träning / ämnesdrill | “Just dina fel” |
+| Veckoattacken | 2–7 min klass mot monstret | Hemträning; personlig Felkista för gäster |
 
-## 1. Spaced repetition
+## Vad forskningen faktiskt stöder (och inte)
 
-Att möta samma kunskapsmål flera gånger över tid ger betydligt bättre långtidsminne än att plugga allt samtidigt kvällen före provet. Effekten är robust över ämnen, åldersgrupper och innehållstyper.
+### Retrieval (testing effect)
 
-**Källa**
+Att *försöka svara* ger bättre **fördröjt** minne än att bara läsa om (Roediger & Karpicke, 2006; Karpicke & Blunt, 2011). Direkt efteråt kan omläsning kännas bättre. Det är därför kvällen-före-plugg lurar.
 
-Latimier, A., Peyre, H., & Ramus, F. (2021). *A meta-analytic review of the benefit of spacing out retrieval practice episodes on retention.* Educational Psychology Review, 33, 959–987. [doi.org/10.1007/s10648-020-09572-8](https://doi.org/10.1007/s10648-020-09572-8)
+**Hos oss:** varje kort flerval *är* ett retrieval-försök — även ett öppet pass och en gäst-Vecko. Det är **inte** samma sak som labbets fria återkallning, och **inte** ett bevis för högre NP-betyg.
 
-Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). *Distributed practice in verbal recall tasks: A review and quantitative synthesis.* Psychological Bulletin, 132(3), 354–380.
+### Utspridd träning (spacing)
 
-**Hur NP-Monstret använder det**
+Två återkallningar med tid emellan slår två i rad för långtidsminne (Cepeda m.fl., 2006; Latimier, Peyre & Ramus, 2021). Spacing kan *sänka* poängen på övningspasset och höja senare test (önskvärd svårighet).
 
-- Övningar återkommer i intervaller baserat på elevens tidigare prestation
-- Svaga områden tränas oftare; starka områden underhålls med längre mellanrum
-- Inget innehåll "klaras av" en gång för alla — eleven möter det igen senare för att befästa kunskapen
+**Hos oss:** om eleven kommer tillbaka träffar Felkistan öppna luckor igen. Gratisväggen 2 test/dag är en **konverteringsgräns** som *kan* skapa mellanrum — inte ett SM-2-schema på varje bankfråga. Vi schemalägger inte “alla frågor med rätt intervall”.
 
-## 2. Retrieval practice
+### Interleaving och remediering är två jobb
 
-Att aktivt försöka komma ihåg något — även om man inte lyckas direkt — stärker minnet av kunskapen mer än passiv läsning. Fenomenet kallas ofta för *testing effect*.
+Att blanda *liknande* uppgiftstyper tränar metodval (Rohrer & Taylor, 2007). Felkistan **smalnar** mot luckan (remediering). Öppna pass kan blanda. Säg inte att Felkistan “interleavar som Rohrer”.
 
-**Källa**
+### Feedback
 
-Roediger, H. L., & Karpicke, J. D. (2006). *Test-enhanced learning: Taking memory tests improves long-term retention.* Psychological Science, 17(3), 249–255.
+Hattie & Timperley (2007) är en **modell** (vart, hur, härnäst) — inte “ju fortare desto bättre”. Timing är blandad i senare översikter. Hos oss: förklaring efter korta flerval **när den finns**. Tom förklaring tystas.
 
-Karpicke, J. D., & Blunt, J. R. (2011). *Retrieval practice produces more learning than elaborative studying with concept mapping.* Science, 331(6018), 772–775.
+### Growth mindset
 
-**Hur NP-Monstret använder det**
+Sisk m.fl. (2018): mycket liten genomsnittlig effekt på prestation. Vi undviker skam och publik ranking av *värdighet*, inte för att affischer höjer NP.
 
-- Plattformen är fråga-baserad, inte text-baserad. Eleven testas, inte föreläses för.
-- Inga "läs först, testa sedan"-flöden. Testet *är* lärandet.
-- Felaktiga svar leder till förklaring och ny chans, inte bara ett rött kryss.
+## Svensk NP-verklighet
 
-## 3. Omedelbar feedback
+Nationella prov är höginsats, tidsatta, och för många elever stressande. Kort flerval är **inte** skrivdelen, listening eller ett helt delprov. Vi tränar förmågor proven mäter. Vi simulerar inte Skolverkets prov.
 
-När feedback ges direkt efter ett svar lär sig eleven snabbare och risken minskar att felaktiga föreställningar etableras.
+Källor för *innehåll*: Lgr22, Gy25, Skolverkets bedömningsstöd. Inte som bevis för vår motor.
 
-**Källa**
+## Vad vi inte påstår
 
-Hattie, J., & Timperley, H. (2007). *The power of feedback.* Review of Educational Research, 77(1), 81–112.
+- Att metoden garanterar bättre betyg
+- Att vi har “vår data” på 50 000 sessioner eller 89 % E
+- Att omedelbar feedback alltid maximerar lärandet
+- Att Vecko = Felkistan
+- Att `/prov?topic=` utan `mode=felkista` är “just dina fel”
 
-Shute, V. J. (2008). *Focus on formative feedback.* Review of Educational Research, 78(1), 153–189.
+## Källor (urval)
 
-**Hur NP-Monstret använder det**
-
-- Eleven får svar och förklaring direkt — inte dagar senare som vid skolprov
-- Förklaringen visar varför rätt svar är rätt, inte bara att det är rätt
-- Vid fel: konkret återkoppling om var resonemanget gick snett
-
-## Förankring i svensk skolkontext
-
-Utöver de allmänna pedagogiska principerna bygger plattformens innehåll på officiella svenska källor:
-
-- Skolverkets kursplaner ([Lgr22](https://www.skolverket.se/undervisning/grundskolan/laroplan-och-kursplaner-for-grundskolan) och [Gy25](https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan))
-- Skolverkets bedömningsmatriser för nationella prov
-- SPSM (Specialpedagogiska skolmyndigheten) för anpassningar vid läs- och skrivsvårigheter
-- Dyslexiförbundets rekommendationer
-
-## Vidare källor som påverkar designen
-
-Utöver de tre huvudprinciperna är följande områden inflytelserika i hur plattformen är byggd:
-
-- **Cognitive load theory** (Sweller m.fl.) — för att inte överbelasta elevens arbetsminne
-- **Growth mindset** (Dweck) — språk och återkoppling som främjar lärande snarare än fasta egenskaper
-- **Motivationsforskning** — varför fokus på upplevelse av framgång slår jämförelse med andra
-
-Dessa citeras när det är relevant, men de tre huvudprinciperna ovan utgör grunden.
-
-## Vad NP-Monstret inte påstår
-
-- Vi säger inte att vår metod *garanterar* bättre betyg
-- Vi gör inte A/B-tester på elever utan deras vetskap
-- Vi publicerar inte oseriösa "97 % av eleverna förbättrade sig"-claims
-
-Vi säger: forskning visar att de här principerna fungerar, och vi bygger plattformen runt dem.
-
-## Hur vi håller forskningsförankringen aktuell
-
-Alexander (legitimerad lärare) och Annika (legitimerad specialpedagog) följer aktuell forskning i sina respektive områden. När ny forskning väsentligt påverkar plattformen uppdateras den här filen, och ändringar dokumenteras i [CHANGELOG.md](CHANGELOG.md).
-
-## Vidare läsning
-
-- [METHODOLOGY.md](METHODOLOGY.md) — hur principerna översätts till plattformsdesign
-- [ASSESSMENT.md](ASSESSMENT.md) — Skolverkets bedömning som grund
-- [CURRICULUM-ALIGNMENT.md](CURRICULUM-ALIGNMENT.md) — koppling till Lgr22 och Gy25
+- Roediger, H. L., & Karpicke, J. D. (2006). *Psychological Science*, 17(3), 249–255.
+- Karpicke, J. D., & Blunt, J. R. (2011). *Science*, 331(6018), 772–775.
+- Cepeda, N. J., et al. (2006). *Psychological Bulletin*, 132(3), 354–380.
+- Latimier, A., Peyre, H., & Ramus, F. (2021). *Educational Psychology Review*, 33, 959–987.
+- Rohrer, D., & Taylor, K. (2007). *Applied Cognitive Psychology*.
+- Hattie, J., & Timperley, H. (2007). *Review of Educational Research*, 77(1), 81–112.
+- Sisk, V. F., et al. (2018). *Psychological Science*, 29(4), 549–571.
 
 ---
 
-*Senast uppdaterad: 2026-05-27 — Alexander Johansson*
+*Uppdaterad: 2026-08-15 — slavad mot intern Research Bank. Tidigare 2026-05-27-versionen överdrev produktmekanismen.*
